@@ -1,0 +1,5 @@
+Here you go:
+
+Read the headers from de-week-1-Python/04_python_practice/01_Python_Basics/Basics/exercise/0X_[Name].ipynb and add them to de-week-1-Python/exercises/0X_[name].ipynb as simple markdown cells with just the number and title (e.g. 1. Sum of squares). No extra text. No main header cell.
+
+Just replace 0X_[Name] with the actual filename each time.z
