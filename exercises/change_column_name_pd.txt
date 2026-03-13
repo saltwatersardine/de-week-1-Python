@@ -1,0 +1,8 @@
+# make a copy of your DataFrame
+df2 = df.copy()
+# make a list column names
+cols = df2.columns.tolist()
+# replace space with _
+cols = [col.replace(' ', '_') for col in cols]
+# reassign new column names to DataFrame
+df2.columns = cols
